@@ -35,5 +35,4 @@ Contributions
 -------------
 
 Creator: [lammertw](https://github.com/lammertw)
-Contributor: [YouriT](https://github.com/YouriT)
-Contributor: [MartinVandersteen](https://github.com/MartinVandersteen)
+Contributor: [YouriT](https://github.com/YouriT) & [MartinVandersteen](https://github.com/MartinVandersteen)
