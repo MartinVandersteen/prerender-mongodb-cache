@@ -7,7 +7,7 @@ It relies on [cache-manager](https://github.com/BryanDonovan/node-cache-manager)
 How it works
 ------------
 
-This plugin will store all prerendered pages into a MongoDB instance. There is currently no expiration functionality, which means that once a page is stored, future requests for prerendering a page will always be served from from the database cache if it's available and the page caches are never updated.
+This plugin will store all prerendered pages into a MongoDB instance. 
 
 To set the cache lifetime use the environment variable when launching prerender: `CACHE_TTL` (in seconds) by default it has been set to one month.
 
